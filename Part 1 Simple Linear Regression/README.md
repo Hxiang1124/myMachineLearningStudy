@@ -1,1 +1,1 @@
-You may read the .pdf file without the tool
+You may read the .pdf file without any tool
