@@ -1,5 +1,4 @@
 ⚠️ Disclaimer: This is only for my personal study and practice.  
-Not intended as a professional reference.
 
 ## 🚀 battle run in google colab or in Jupyter Notebook
 
