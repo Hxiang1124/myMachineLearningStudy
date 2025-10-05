@@ -6,7 +6,8 @@ Solution: I suggest to reinstall the anaconda and create new venv. This is the o
 
 - recommend install miniconda instead of anaconda. Miniconda does not come with a large set of pre-installed packages.
 
-2) <img width="940" height="121" alt="image" src="https://github.com/user-attachments/assets/50f471f1-e1a2-4413-a9d1-b41ec5e723c7" />
+2) mat1 and mat2 cannot be multiplied
+<img width="940" height="121" alt="image" src="https://github.com/user-attachments/assets/50f471f1-e1a2-4413-a9d1-b41ec5e723c7" />
 definition: 
 Start_dim = 0 was an error. It should start from 1. This is because 0 is 32 but we want to start from 1 to 3 (3, 32, 32).
 <img width="916" height="308" alt="image" src="https://github.com/user-attachments/assets/dde6cef7-9470-4c00-bff5-132bf123775e" />
