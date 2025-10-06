@@ -1,3 +1,7 @@
+Dataset download manually from the link below:
+
+https://www.kaggle.com/datasets/novinnouri/mnist-dataset?resource=download
+
 Problem Statement
 
 1) Kernel died issue
